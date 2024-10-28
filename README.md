@@ -10,3 +10,4 @@
 
 📫 How to reach me: Connect with me on <a href="www.linkedin.com/in/yilanli5200173">LinkedIn.</a>
 
+🐕 I am a proud parent of a GERMAN SHEPHERD who is sometimes an asshole.
