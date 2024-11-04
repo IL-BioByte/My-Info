@@ -1,6 +1,6 @@
 👋 Hi, I’m Iran.
 
-💼 I’m a data analyst transitioning from biotech. My work involves data manipulation, predictive modeling, and statistical analysis using R, Python, SQL, and I am learning Tableau.
+💼 I’m a data analyst working in biotech. My work involves data manipulation, predictive modeling, and statistical analysis using R, Python, SQL.
 
 👀 I also enjoy creating custom software to automate and streamline my work.
 
